@@ -88,7 +88,7 @@ Cierra la aplicación de forma segura.
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/gestor-tareas-java.git
+git clone https://github.com/J4RED1/gestor-tareas-java.git
 cd gestor-tareas-java
 ```
 
@@ -138,8 +138,7 @@ Este proyecto permite reforzar:
 
 ## 🧑‍💻 Autor
 
-Proyecto desarrollado por **[Tu Nombre o Usuario de GitHub]**.  
-Este repositorio forma parte de un portafolio personal de estudios.
+Proyecto desarrollado por **[J4RED1]**.  
 
 ---
 
